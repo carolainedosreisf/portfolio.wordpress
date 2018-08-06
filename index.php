@@ -10,6 +10,13 @@ require('../../../wp-load.php')*/
 ?> 
 
 
+<!--
+Ese codigo serve para capturar imagens com srcs vazios
+img[src=""]{
+
+}
+-->
+
 <header>
     <div class="topo-barra "> 
         <div class="container">

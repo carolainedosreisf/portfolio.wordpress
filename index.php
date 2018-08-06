@@ -1,6 +1,15 @@
 <?php get_header(); ?>
 
 
+<?php /**
+ * Carrega a API do WordPress
+ */
+/* Este codigo faz um arquivo comum entrar no fluxo do wordpress
+define('WP_USE_THEMES', false); // Não utiliza nenhum tema
+require('../../../wp-load.php')*/
+?> 
+
+
 <header>
     <div class="topo-barra "> 
         <div class="container">
